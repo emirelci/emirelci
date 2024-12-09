@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<hr>
+
 # ⚡Her satır kodda bir yenilik, her projede bir öğrenme tutkusu⚡
 
 <br>
